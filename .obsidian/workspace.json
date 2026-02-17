@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "7357bce3ddca4da7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea95871141bd1604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c984259e1b2f702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Meta/Templates/30_Lit用_技術文献.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30_Lit用_技術文献.md"
+            }
+          },
+          {
+            "id": "a391e42fc1a874ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10_Daily/12_雑記/0210.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0210"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19b921bf5aac3e42",
+    "type": "split",
+    "children": [
+      {
+        "id": "86d088a95364beba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43714645a5930359",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "9fd7d8eff5362b1d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "328562e3e3bc11a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "18cf2927a78b1066",
+    "type": "split",
+    "children": [
+      {
+        "id": "a60f4cf59cec7872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d82962ebba94adcc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Inbox/無題のファイル.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "無題のファイルへのバックリンク"
+            }
+          },
+          {
+            "id": "6b4569b755902ff2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Inbox/無題のファイル.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "無題のファイルからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "caa54723e9c545ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "07c5077b84878307",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "0eb1fa70115e0309",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Inbox/無題のファイル.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "無題のファイルのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a391e42fc1a874ed",
+  "lastOpenFiles": [
+    "10_Daily/12_雑記/0212.md",
+    "10_Daily/12_雑記/0210.md",
+    "70_Frameworks/74_AI_Systems/strat-lab式_AI思考パイプライン.md.md",
+    "10_Daily/12_雑記",
+    "50_Projects/01_Notionエクスポート/赤坂タスク一覧_0210.xlsx",
+    "50_Projects/01_Notionエクスポート/タスク一覧.xlsx",
+    "80_Maps/01_Notionエクスポート/抱え業務リスト.xlsx",
+    "50_Projects/01_Notionエクスポート/WBS_（プロジェクト名）_NotionExport.csv.zip",
+    "50_Projects/01_Notionエクスポート",
+    "50_Projects/新しいフォルダー",
+    "80_Maps/01_Notionエクスポート/Notion_Projects_Progress_202602.csv.zip",
+    "80_Maps/01_Notionエクスポート",
+    "80_Maps/新しいフォルダー",
+    "01_Inbox/無題のファイル.md",
+    "01_Inbox/よく使うもの.md",
+    "01_Inbox/リーダーMTG/リーダーMTGテンプレ0512.md",
+    "01_Inbox/リーダーMTG/YYYYMMDD　リーダーMTGテンプレ.md 1.md",
+    "01_Inbox/技術部MTG/週次技術部MTG.md",
+    "01_Inbox/技術部MTG/藤井さんからの引継ぎ.md",
+    "01_Inbox/技術部MTG/細川さんからの引継ぎ.md",
+    "01_Inbox/技術部MTG/新課タスク.md",
+    "01_Inbox/技術部MTG/急務タスク.md",
+    "01_Inbox/技術部MTG/技術部MTG MMDD.md",
+    "01_Inbox/技術部MTG/アサイン関連.md",
+    "01_Inbox/技術部MTG/Iseki Japan様.md",
+    "01_Inbox/技術部MTG/5月MTG.md",
+    "01_Inbox/毎朝チェック.md",
+    "01_Inbox/IG2について.md",
+    "01_Inbox/2025年度エスカレ一覧.md",
+    "00_Meta/Templates/30_Lit用_技術文献.md.md",
+    "00_Meta/Templates/50_Project用_Python設計書.md.md",
+    "00_Meta/Templates/40_Perm用_結晶化ノート.md.md",
+    "00_Meta/Templates/10_Daily用_日報.md.md",
+    "00_Meta/Templates/01_Inbox用_クイックメモ.md.md",
+    "00_Meta/00_Obsidian_Commands.md.md",
+    "Obsidianコマンド集.md"
+  ]
+}
